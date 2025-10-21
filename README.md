@@ -1,10 +1,42 @@
 # Hi 👋! My name is Le Van Hau and I'm from Vietnam.
 
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="10" viewBox="0 0 100 10" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%"  stop-color="#1f6feb" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#1f6feb" stop-opacity="1"/>
+      <stop offset="50%" stop-color="#c297ff" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#1f6feb" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <!-- thin core line -->
+  <rect x="0" y="4" width="100" height="2" fill="url(#g)"/>
+  <!-- soft glow -->
+  <rect x="0" y="2" width="100" height="6" fill="url(#g)" opacity="0.25"/>
+</svg>
+
 <!-- GitHub Stats Card (use an API like github-readme-stats) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lehau007&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehau007&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="10" viewBox="0 0 100 10" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%"  stop-color="#1f6feb" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#1f6feb" stop-opacity="1"/>
+      <stop offset="50%" stop-color="#c297ff" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#1f6feb" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <!-- thin core line -->
+  <rect x="0" y="4" width="100" height="2" fill="url(#g)"/>
+  <!-- soft glow -->
+  <rect x="0" y="2" width="100" height="6" fill="url(#g)" opacity="0.25"/>
+</svg>
 
 <!-- Technology Icons (use shields.io or SVG logos) -->
 <p align="center">
