@@ -1,4 +1,7 @@
-# Hi 👋! My name is Le Van Hau and I'm from Vietnam.
+# Hi 👋! My name is Le Van Hau.
+- 👀 I'm from Vietnam
+
+- 🔭 Education: **Global ICT** at [Hanoi University of Science and Technology](https://www.facebook.com/dhbkhanoi/)
 
 <!-- Add distribution line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
