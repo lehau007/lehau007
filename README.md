@@ -4,15 +4,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="10" viewBox="0 0 100 10" preserveAspectRatio="none">
   <defs>
     <linearGradient id="g" x1="0%" y1="50%" x2="100%" y2="50%">
-      <stop offset="0%"  stop-color="#0969da" stop-opacity="0"/>
-      <stop offset="20%" stop-color="#0969da" stop-opacity="1"/>
-      <stop offset="50%" stop-color="#6f42c1" stop-opacity="1"/>
-      <stop offset="80%" stop-color="#0969da" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#0969da" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#0969da" stop-opacity="0">
+        <animate attributeName="stop-color" values="#0969da; #bf3989; #0969da" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="20%" stop-color="#0969da">
+        <animate attributeName="stop-color" values="#0969da; #6f42c1; #0969da" dur="8s" begin="1.2s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#6f42c1">
+        <animate attributeName="stop-color" values="#6f42c1; #bf3989; #6f42c1" dur="8s" begin="2.4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="80%" stop-color="#0969da">
+        <animate attributeName="stop-color" values="#0969da; #6f42c1; #0969da" dur="8s" begin="3.6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#0969da" stop-opacity="0">
+        <animate attributeName="stop-color" values="#0969da; #bf3989; #0969da" dur="8s" begin="4.8s" repeatCount="indefinite" />
+      </stop>
     </linearGradient>
   </defs>
   <rect x="0" y="4" width="100" height="2" fill="url(#g)"/>
-  <rect x="0" y="2" width="100" height="6" fill="url(#g)" opacity="0.25"/>
+  <rect x="0" y="2" width="100" height="6" fill="url(#g)" opacity="0.25">
+    <animate attributeName="opacity" values="0.2;0.35;0.2" dur="4s" repeatCount="indefinite" />
+  </rect>
 </svg>
 
 <!-- GitHub Stats Card (use an API like github-readme-stats) -->
@@ -20,20 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lehau007&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehau007&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="10" viewBox="0 0 100 10" preserveAspectRatio="none">
-  <defs>
-    <linearGradient id="g" x1="0%" y1="50%" x2="100%" y2="50%">
-      <stop offset="0%"  stop-color="#0969da" stop-opacity="0"/>
-      <stop offset="20%" stop-color="#0969da" stop-opacity="1"/>
-      <stop offset="50%" stop-color="#6f42c1" stop-opacity="1"/>
-      <stop offset="80%" stop-color="#0969da" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#0969da" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <rect x="0" y="4" width="100" height="2" fill="url(#g)"/>
-  <rect x="0" y="2" width="100" height="6" fill="url(#g)" opacity="0.25"/>
-</svg>
 
 <!-- Technology Icons (use shields.io or SVG logos) -->
 <p align="center">
