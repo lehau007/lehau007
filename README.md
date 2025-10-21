@@ -1,18 +1,17 @@
 # Hi 👋! My name is Le Van Hau and I'm from Vietnam.
 
+<!-- Add distribution line -->
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="10" viewBox="0 0 100 10" preserveAspectRatio="none">
   <defs>
     <linearGradient id="g" x1="0%" y1="50%" x2="100%" y2="50%">
-      <stop offset="0%"  stop-color="#1f6feb" stop-opacity="0"/>
-      <stop offset="20%" stop-color="#1f6feb" stop-opacity="1"/>
-      <stop offset="50%" stop-color="#c297ff" stop-opacity="1"/>
-      <stop offset="80%" stop-color="#1f6feb" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0"/>
+      <stop offset="0%"  stop-color="#0969da" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#0969da" stop-opacity="1"/>
+      <stop offset="50%" stop-color="#6f42c1" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#0969da" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0969da" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <!-- thin core line -->
   <rect x="0" y="4" width="100" height="2" fill="url(#g)"/>
-  <!-- soft glow -->
   <rect x="0" y="2" width="100" height="6" fill="url(#g)" opacity="0.25"/>
 </svg>
 
@@ -25,16 +24,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="10" viewBox="0 0 100 10" preserveAspectRatio="none">
   <defs>
     <linearGradient id="g" x1="0%" y1="50%" x2="100%" y2="50%">
-      <stop offset="0%"  stop-color="#1f6feb" stop-opacity="0"/>
-      <stop offset="20%" stop-color="#1f6feb" stop-opacity="1"/>
-      <stop offset="50%" stop-color="#c297ff" stop-opacity="1"/>
-      <stop offset="80%" stop-color="#1f6feb" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0"/>
+      <stop offset="0%"  stop-color="#0969da" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#0969da" stop-opacity="1"/>
+      <stop offset="50%" stop-color="#6f42c1" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#0969da" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0969da" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <!-- thin core line -->
   <rect x="0" y="4" width="100" height="2" fill="url(#g)"/>
-  <!-- soft glow -->
   <rect x="0" y="2" width="100" height="6" fill="url(#g)" opacity="0.25"/>
 </svg>
 
