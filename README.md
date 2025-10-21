@@ -12,6 +12,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehau007&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- Technology Icons (use shields.io or SVG logos) -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
