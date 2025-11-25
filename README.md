@@ -8,8 +8,7 @@
 
 <!-- GitHub Stats Card (use an API like github-readme-stats) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lehau007&theme=radical" alt="GitHub Streak" />
-  <img src="https://metrics.lecoq.io/lehau007?template=classic&base=repositories&config.timezone=Asia%2FHo_Chi_Minh" alt="Metrics" />
+  <img src="https://github.com/lehau007/lehau007/blob/main/github-metrics.svg" alt="Metrics" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
