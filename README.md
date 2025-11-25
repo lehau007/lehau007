@@ -8,8 +8,8 @@
 
 <!-- GitHub Stats Card (use an API like github-readme-stats) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lehau007&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lehau007&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lehau007&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehau007&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
