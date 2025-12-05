@@ -11,10 +11,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lehau007&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehau007&layout=compact&theme=radical&cache_seconds=3600" alt="Top Languages" />
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/lehau007/lehau007/output/github-contribution-grid-snake.svg" alt="Contribution Grid Snake" />
   <img src="https://raw.githubusercontent.com/lehau007/lehau007/output/github-snake-dark.svg" alt="Contribution Snake Dark" />
-</p>
+</p> -->
+
+```text
+  _       _                   ___   ___  ______
+ | |     | |                 / _ \ / _ \|____  |
+ | |  ___| |__   __ _ _   _ | | | | | | |   / /
+ | | / _ \ '_ \ / _` | | | || | | | | | |  / /
+ | ||  __/ | | | (_| | |_| || |_| | |_| | / /
+ |_| \___|_| |_|\__,_|\__,_| \___/ \___/ /_/
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
