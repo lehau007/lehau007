@@ -27,19 +27,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 <!-- GitHub Stats Card (use an API like github-readme-stats) -->
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lehau007&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehau007&layout=compact&theme=radical&cache_seconds=3600" alt="Top Languages" />
-</p>
+</p> 
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/lehau007/lehau007/output/github-contribution-grid-snake.svg" alt="Contribution Grid Snake" />
   <img src="https://raw.githubusercontent.com/lehau007/lehau007/output/github-snake-dark.svg" alt="Contribution Snake Dark" />
 </p> -->
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <!-- Technology Icons (use shields.io or SVG logos) -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
