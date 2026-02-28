@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/0WkmuOC_W00AAAAm/waving-pikachu.webp" width="300" alt="Hello Pikachu">
+  <img src="https://media.tenor.com/0WkmuOC_W00AAAAm/waving-pikachu.webp" width="350" alt="Hello Pikachu">
 </div>
 
 # Hi 👋! My name is Le Van Hau.
@@ -76,9 +76,9 @@ Profile/Anime Image (optional, host your own image) -->
 <!--
 <p align="right">
   <img src="https://raw.githubusercontent.com/lehau007/InternProgress/main/Demo/demo_img.png" width="250" />
-</p>
+</p> -->
 
-<!-- GitHub Contribution Graph (automatic on profile, or use a service for SVG)
+<!-- GitHub Contribution Graph (automatic on profile, or use a service for SVG) -->
 <p align="center">
   <img src="https://github.com/lehau007/lehau007/blob/main/images/contribution-graph.svg" />
-</p> -->
+</p> 
