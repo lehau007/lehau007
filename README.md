@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/0WkmuOC_W00AAAAm/waving-pikachu.webp" width="150" alt="Hello Pikachu">
+  <img src="https://media.tenor.com/0WkmuOC_W00AAAAm/waving-pikachu.webp" width="300" alt="Hello Pikachu">
 </div>
 
 # Hi 👋! My name is Le Van Hau.
