@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/U2nN0ridM4lXy/giphy.gif" width="150" alt="Hello Pikachu">
+</div>
+
 # Hi 👋! My name is Le Van Hau.
 - 👀 I'm from Vietnam
 
